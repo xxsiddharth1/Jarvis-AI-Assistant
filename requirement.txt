@@ -1,0 +1,10 @@
+openai
+speech_recognition
+requests
+pyttsx3
+beautifulsoup4
+webbrowser
+datetime
+os
+tkinter
+pillow
