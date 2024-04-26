@@ -30,7 +30,7 @@ First you have to create OpenAI API Key and make a new .py file name config and 
 ```
 3. Install the required dependencies:
 ```bash
-  pip install -r requirements.txt
+  pip install -r requirement.txt
 ```
 ## Usage
 
